@@ -1,2 +1,2 @@
 # lazy
-This is for Learnign Purpose.
+This is Me, lazy learner

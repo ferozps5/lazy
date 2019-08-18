@@ -1,2 +1,2 @@
 # lazy
-This is Me, lazy learner
+This is Me, lazy learner.
